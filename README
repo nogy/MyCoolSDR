@@ -1,0 +1,33 @@
+My General Purpose SDR
+
+I'd like to build a SDR someday, but first there is some design space
+exploration to be done.
+This repository holds various circuits that I stumbled upon and that I
+wanted to simulate.
+Every Circuit comes as an .asc file that I generated using LTSpice or as a
+simple SPICE netlist.
+
+If you 'd like to participate feel free to do so. Please do _NOT_ share any
+circuits that you found in some companies reference manual etc... This is
+about enjoying the technology and fooling around with it. There are pretty
+amazing things to be discovered and explored like e.g. thermal noise
+cancellation [1].
+
+Why LTSpice? 
+ - cause I like it
+ - it can be downloaded free of charge
+ - it is quite fast
+ - it runs on linux using wine (faster than on my Win7)
+
+Bastian Mueller
+09/01/2010
+
+---
+
+[1] 
+Bruccoleri, Federico 
+Wideband low noise amplifiers exploiting thermal noise cancellation / by
+Federico Bruccoleri, Eric A. M. Klumperink and Bram Nauta
+Dordrecht : Springer, 2005. - IX, 182 S. : Ill., graph. Darst.; (englisch)
+(Kluwer international series in engineering and computer science ; 840)
+ISBN 1-4020-3187-4
